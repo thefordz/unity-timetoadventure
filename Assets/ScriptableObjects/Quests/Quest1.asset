@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83ceec97cdbf4b469965ef742c38f15, type: 3}
+  m_Name: Quest1
+  m_EditorClassIdentifier: 
+  Name: Kill 3 Boars
+  ID: KillBoar
+  AmountObj: 3
+  Description: Give Health Potion S
+  RewardGold: 50
+  RewardItem:
+    Item: {fileID: 11400000, guid: 68b0f1717eb9de647bd30ab5cfe5be8f, type: 2}
+    Amount: 3
+  CurrentAmount: 0
+  QuestCompleteCheck: 0

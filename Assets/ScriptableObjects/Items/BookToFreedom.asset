@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c909e53a83068d48a7c5e744a29cbc3, type: 3}
+  m_Name: BookToFreedom
+  m_EditorClassIdentifier: 
+  ID: FreedomBook
+  Number: Freedom Book
+  Icon: {fileID: -659969453, guid: efde3d36bb7a66a4f8c0c1a5e03dfbf6, type: 3}
+  Description: 'This book can be you the freedom.
+
+    If You use this book you
+    will win this game.'
+  type: 1
+  IsConsumable: 1
+  IsCumulative: 1
+  CumulativeMax: 1
+  Amount: 0
